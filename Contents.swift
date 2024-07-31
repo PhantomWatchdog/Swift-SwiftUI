@@ -5,6 +5,7 @@ var greeting = "Hello, playground"
 var name = "Ted"
 name = "Rebecca"
 name = "Keeley"
+print(name)
 
 let character = "Daphne"
 
