@@ -13,3 +13,6 @@ print(playname)
 
 playname = "John"
 print(playname)
+
+playname = "Lucy"
+print(playname)
